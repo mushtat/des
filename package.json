@@ -1,0 +1,21 @@
+{
+  "name": "DES",
+  "version": "1.0.0",
+  "description": "Crypto.js DES UMD module",
+  "author": {
+    "name": "Jeff Mott",
+    "email": "Jeff.Mott.OR@gmail.com"
+  },
+  "contributors": [
+    {
+      "name": "Dmitry Mushtat",
+      "email": "mushtat@gmail.com"
+    }
+  ],
+  "main": "des.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mushtat/des.git"
+  },
+  "license": "New BSD License"
+}
